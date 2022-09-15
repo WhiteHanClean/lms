@@ -236,7 +236,6 @@
   mix-blend-mode: difference;  
 }  
 .scanlines::before {  
-  content: "";  
   position: absolute;  
   width: 100%;  
   height: 100%;  
